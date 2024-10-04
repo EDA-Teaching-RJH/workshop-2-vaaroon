@@ -1,6 +1,6 @@
 def main():
     slow = input("Input ")
-    replace(slow)c
+    replace(slow)
 
 def replace(text):
   #Your code goes here.
